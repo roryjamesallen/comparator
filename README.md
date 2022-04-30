@@ -1,0 +1,2 @@
+# comparator
+Eurorack comparator module
