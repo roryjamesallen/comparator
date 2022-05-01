@@ -2288,7 +2288,7 @@
     (uuid 5b17d47a-a4a2-4ddf-966a-e6b5821094ec)
     (property "Reference" "D2" (id 0) (at 254.635 162.56 0))
     (property "Value" "DIODE" (id 1) (at 254.635 164.465 0))
-    (property "Footprint" "Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal" (id 2) (at 254.635 159.385 0)
+    (property "Footprint" "Diode_THT:D_A-405_P7.62mm_Horizontal" (id 2) (at 254.635 159.385 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 254.635 159.385 0)
@@ -2678,7 +2678,7 @@
     (uuid a65de6f7-a57d-4433-8d00-2faaf28702a5)
     (property "Reference" "D1" (id 0) (at 254.635 146.685 0))
     (property "Value" "DIODE" (id 1) (at 254.635 148.59 0))
-    (property "Footprint" "Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal" (id 2) (at 254.635 151.765 0)
+    (property "Footprint" "Diode_THT:D_A-405_P7.62mm_Horizontal" (id 2) (at 254.635 151.765 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 254.635 151.765 0)
@@ -3209,10 +3209,10 @@
       (reference "CONN4") (unit 1) (value "Conn_01x08_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical")
     )
     (path "/a65de6f7-a57d-4433-8d00-2faaf28702a5"
-      (reference "D1") (unit 1) (value "DIODE") (footprint "Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal")
+      (reference "D1") (unit 1) (value "DIODE") (footprint "Diode_THT:D_A-405_P7.62mm_Horizontal")
     )
     (path "/5b17d47a-a4a2-4ddf-966a-e6b5821094ec"
-      (reference "D2") (unit 1) (value "DIODE") (footprint "Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal")
+      (reference "D2") (unit 1) (value "DIODE") (footprint "Diode_THT:D_A-405_P7.62mm_Horizontal")
     )
     (path "/bc704d96-cc18-45a3-8762-752ec6ff2845"
       (reference "D3") (unit 1) (value "DIODE") (footprint "Eurorack:Schottky Diode")
